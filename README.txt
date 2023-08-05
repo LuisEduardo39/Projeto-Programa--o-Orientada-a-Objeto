@@ -1,0 +1,1 @@
+g++ cases.cpp personagem.cpp guerreiro.cpp arqueiro.cpp mago.cpp historia.cpp racas.cpp -o AventurasnaMasmorra.exe
